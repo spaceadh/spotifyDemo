@@ -2,7 +2,7 @@
 <template>
     <div id="root">
         <div class="pnfc">
-            <h1>Page not found :(  Return <a href="https://my-muzik.netlify.app/">home</a></h1>
+            <h1>Page not found :(  Return <a href="https://checkmyspotifydata.netlify.app/">home</a></h1>
         </div>
 
     </div>

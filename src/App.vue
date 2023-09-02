@@ -57,8 +57,8 @@ export default {
     return {
         AUTHORIZE:'https://accounts.spotify.com/authorize',
          scope:'user-read-private user-read-recently-played playlist-read-private user-follow-read user-top-read',
-         redirect_uri : 'https://my-muzik.netlify.app/' ,
-         client_id:'11e1eb62cc504e17bce8867bc8a21897',
+         redirect_uri : 'https://checkmyspotifydata.netlify.app/' ,
+         client_id:'250ae9b1c39042aaa026ab9daa03845a',
          token:localStorage.getItem('access_token'),
         }
   },
@@ -110,8 +110,6 @@ export default {
         // checkAccessStatus() //FUNCTION TO CHECK WHETHER THE USER GRANTED US AUTHORIZATION
     }
   }
-
-
 }
 </script>
 
@@ -128,8 +126,6 @@ $black:900;
 
 // $web-color:rgb(21, 20, 23);
 $web-color:rgb(14, 14, 15);
-
-
 
 *{
     margin: 0;
@@ -155,20 +151,13 @@ body{
         width: 1rem;  //for vertical scrollbar
         height: 1rem;    //for horizontal scrollbar
     }
-
     &::-webkit-scrollbar-track {
- 
         background:$web-color;
-
- 
       }
-
       &::-webkit-scrollbar-thumb {
         background-color: #504b4b;
     }
 }
-
-
 
 *{
             margin: 0;
@@ -244,7 +233,6 @@ body{
             opacity: .8;
 
         }
-
 
 </style>
 

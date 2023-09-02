@@ -5,8 +5,8 @@ import router from './router'
 createApp(App).use(router).mount('#app')
 
 
-let redirect_uri = "https://my-muzik.netlify.app/"
-let client_id='11e1eb62cc504e17bce8867bc8a21897'
+let redirect_uri = "https://checkmyspotifydata.netlify.app/"
+let client_id='250ae9b1c39042aaa026ab9daa03845a'
 
 var access_token = null;
 var refresh_token = null;
@@ -45,7 +45,7 @@ function getCode(){
         const urlParams = new URLSearchParams(queryString);
 
         if(urlParams.has('error')){
-            window.location.href = "https://my-muzik.netlify.app/"
+            window.location.href = "https://checkmyspotifydata.netlify.app/"
         }
         else{
             code = urlParams.get('code')
@@ -67,7 +67,7 @@ function fetchAccessToken( code ){
 //FUNCTION TO POST THE ACCESS TOKEN REQUEST
 function callAuthorizationApi(body){
     const TOKEN = "https://accounts.spotify.com/api/token";
-    const authBody = 'Basic MTFlMWViNjJjYzUwNGUxN2JjZTg4NjdiYzhhMjE4OTc6ZGUzNGIzYWIzNmY2NDFiZTkzY2RkNjNkMTVmNTMxMTg='
+    const authBody = 'Basic MjUwYWU5YjFjMzkwNDJhYWEwMjZhYjlkYWEwMzg0NWE6YWRhYjJjYTg0MzgzNDJmMGE1NmE1NjFhMTYwZjNmMWY='
     let xhr = new XMLHttpRequest();
     xhr.open("POST", TOKEN, true);
     xhr.setRequestHeader('Content-Type', 'application/x-www-form-urlencoded');
