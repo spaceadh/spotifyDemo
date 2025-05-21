@@ -38,7 +38,7 @@
                             <!-- <img id="user-avatar" src="./images/profile.jpg" alt=""> -->
                         </div>
                         <div class="udis-name">
-                            <!-- <a id="username" href="">stancillous</a> -->
+                            <!-- <a id="username" href="">Alvin</a> -->
                         </div>
                         <div class="udis-following">
                             <div class="following-playlists-followers">

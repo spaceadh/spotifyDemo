@@ -1,17 +1,17 @@
 {
   "name": "my-muzik",
-  "author":"Stancillous Raymond (https://stanceray.com/)",
+  "author":"spaceadh (https://checkmyspotifydata.netlify.app/)",
   "description":"a web app for visualizing personalized spotify data",
   "version": "0.1.0",
-  "homepage": "https://github.com/stancillous/spotify-connected-app#readme",
+  "homepage": "https://github.dev/spaceadh/spotifyDemo#readme",
   "license": "MIT",
   "private": true,
   "bugs": {
-    "url": "https://github.com/stancillous/spotify-connected-app/issues"
+    "url": "https://github.dev/spaceadh/spotifyDemo/issues"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/stancillous/spotify-connected-app.git"
+    "url": "https://github.dev/spaceadh/spotifyDemo.git"
   },
 
   "scripts": {

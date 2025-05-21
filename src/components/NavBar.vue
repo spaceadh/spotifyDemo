@@ -12,8 +12,8 @@
                     </div>
 
                     <div class="f-developer">
-                        <a target="_blank" href="https://github.com/stancillous/spotify-connected-app"><i class="fa-brands fa-github"></i></a>
-                        <a target="_blank" href="https://github.com/stancillous/spotify-connected-app">github</a>
+                        <a target="_blank" href="https://github.dev/spaceadh/spotifyDemo"><i class="fa-brands fa-github"></i></a>
+                        <a target="_blank" href="https://github.dev/spaceadh/spotifyDemo">github</a>
                     </div>
                 </div>
 
@@ -89,7 +89,7 @@
                         </div>
 
                         <div class="github-div">
-                        <a target="_blank" href="https://github.com/stancillous/spotify-connected-app"><span style="font-size: 2.5rem;" class="iconify" data-icon="charm:github"></span></a>
+                        <a target="_blank" href="https://github.dev/spaceadh/spotifyDemo"><span style="font-size: 2.5rem;" class="iconify" data-icon="charm:github"></span></a>
 
                         </div>
 
