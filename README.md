@@ -1,6 +1,6 @@
-# [My Muzik](https://spotify-wrapper.netlify.app/login.html)
+# [My Muzik Data](https://checkmyspotifydata.netlify.app/)
 
-<h5>Fourth iteration of my muzik, built with vue.js</h5>
+<h5>Fourth iteration of my data, built with vue.js</h5>
 
 <h5>Intergrated with Spotify's API and OAuth flow, this web app shows personalized Spotify data. View recently played tracks, top songs, top artists and more. Get recommended artists based on your top artists.</h5>
 

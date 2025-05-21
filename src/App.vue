@@ -10,7 +10,7 @@
       <div>
         <div class="gh-container">
             <div class="gh-div">
-                <a class="gh-ex-link" target="_blank" href="https://github.com/stancillous/my-muzik-v4"><i class="fa-brands fa-github"></i></a>
+                <a class="gh-ex-link" target="_blank" href="https://github.com/spaceadh/spotifyDemo"><i class="fa-brands fa-github"></i></a>
             </div>
         </div>
         <div class="main">
